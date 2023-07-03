@@ -1,0 +1,6 @@
+.game {
+  display: flex;
+}
+.game-info {
+  margin-left: 20px;
+}

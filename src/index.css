@@ -1,0 +1,7 @@
+body {
+  margin: 20px;
+  font: 14px 'Pretendard', sans-serif;
+}
+ul, ol {
+  padding-left: 30px;
+}
